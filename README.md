@@ -1,6 +1,6 @@
 # Instant_Data_Report
 
-Data Exploration is the beginning phase in conducting data science project. However, as we know R is more powerful than Python when it comes to the descriptive analytics. However, as a big fan of Python, I am eager to find all way to get the same benefit while still using Python.
+Data Exploration is the beginning phase in conducting data science project. However, as we know R is more powerful than Python when it comes to the descriptive analytics. However, as a big fan of Python, I am eager to find all way to get the same benefit while still using Python. "DataExplorer" and "RPy2" are the answers.
 
 "DataExplorer" is an R package which can produce a single HTML data report in just using 1 function.
 
